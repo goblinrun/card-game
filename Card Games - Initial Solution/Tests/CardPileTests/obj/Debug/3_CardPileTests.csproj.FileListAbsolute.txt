@@ -1,0 +1,117 @@
+F:\学习\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+F:\学习\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.pdb
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.pdb
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CopyComplete
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+C:\Users\wsgdd\OneDrive\桌面\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.pdb
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.pdb
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CopyComplete
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CopyComplete
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.pdb
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.pdb
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CopyComplete
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.pdb
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.pdb
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CopyComplete
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\CardPileTests.pdb
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.pdb
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CopyComplete
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\CardPileTests.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\GameObjects.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\Tests\CardPileTests\obj\Debug\3_CardPileTests.csproj.CopyComplete

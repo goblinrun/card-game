@@ -1,0 +1,65 @@
+F:/学习/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+F:/学习/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+F:/学习/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+F:/学习/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+F:/学习/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+F:/学习/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+E:/新建文件夹 (2)/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+E:/新建文件夹 (2)/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+E:/新建文件夹 (2)/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+E:/新建文件夹 (2)/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+E:/新建文件夹 (2)/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+E:/新建文件夹 (2)/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.dll
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GameObjects/bin/Debug/GameObjects.pdb
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csprojAssemblyReference.cache
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.csproj.CoreCompileInputs.cache
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.dll
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GameObjects/obj/Debug/GameObjects.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.pdb

@@ -1,0 +1,95 @@
+F:\学习\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+F:\学习\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+F:\学习\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+F:\学习\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+F:\学习\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+F:\学习\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+F:\学习\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+F:\学习\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csprojAssemblyReference.cache
+F:\学习\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+F:\学习\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+F:\学习\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+F:\学习\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csprojAssemblyReference.cache
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+E:\新建文件夹 (2)\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+C:\Users\wrg\Desktop\要求\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csprojAssemblyReference.cache
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csprojAssemblyReference.cache
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+C:\Users\wrg\Desktop\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csprojAssemblyReference.cache
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+E:\新建文件夹\新建文件夹\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csprojAssemblyReference.cache
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+C:\Users\wsgdd\Documents\WeChat Files\yjl290481036\Files\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csprojAssemblyReference.cache
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+C:\Users\wsgdd\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\Games.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\bin\Debug\GameObjects.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete

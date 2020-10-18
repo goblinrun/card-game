@@ -1,0 +1,166 @@
+F:/学习/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+F:/学习/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+F:/学习/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+F:/学习/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+F:/学习/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+F:/学习/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+C:/Users/wsgdd/OneDrive/文档/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+C:/Users/wsgdd/OneDrive/桌面/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+E:/新建文件夹 (2)/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+C:/Users/wrg/Desktop/要求/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+C:/Users/wrg/Desktop/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+E:/新建文件夹/新建文件夹/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+C:/Users/wsgdd/Documents/WeChat Files/yjl290481036/Files/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe.config
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/bin/Debug/GUI.exe
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/bin/Debug/GUI.pdb
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.dll
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/bin/Debug/Games.dll
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/bin/Debug/GameObjects.pdb
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/bin/Debug/Games.pdb
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.csprojAssemblyReference.cache
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.Crazy_Eights_Form.resources
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.Choose_Suit_Form.resources
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.Properties.Resources.resources
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.GenerateResource.cache
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.csproj.CopyComplete
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.exe
+/Users/sameul/OneDrive - Queensland University of Technology/ITD121/assignment4/n9905391ANDn10073591/Card Games - Initial Solution/GUI/obj/Debug/GUI.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.Crazy_Eights_Form.resources
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.Choose_Suit_Form.resources
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.exe
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe.config
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\bin\Debug\GUI.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\bin\Debug\Games.dll
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\bin\Debug\Games.pdb
+C:\Users\admin\OneDrive - Queensland University of Technology\ITD121\assignment4\n9905391ANDn10073591\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe.config
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\bin\Debug\GUI.pdb
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.dll
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\bin\Debug\Games.dll
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.pdb
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\bin\Debug\Games.pdb
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.Crazy_Eights_Form.resources
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.Choose_Suit_Form.resources
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.exe
+C:\Users\Huachen Liu\Downloads\card game\Card Games - Initial Solution\GUI\obj\Debug\GUI.pdb
